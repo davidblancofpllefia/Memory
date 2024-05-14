@@ -1,3 +1,24 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* estilos.css */
+.tarjeta {
+  transition: transform 0.5s ease;
+}
+
+.girada {
+  transform: rotateY(0deg);
+}
+
+.tarjeta-cara {
+  backface-visibility: hidden;
+}
+
+.tarjeta-delantera {
+  transform: rotateY(0deg);
+}
+
+
+
+
+  

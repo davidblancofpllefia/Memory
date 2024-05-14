@@ -10,7 +10,7 @@ export function Header() {
             <Link to="/">Home</Link>
           </li>
           <li>
-            <Link to="/tarjetas">Pokemons Memory</Link>
+            <Link to="/pokemon-memory">Pokemons Memory</Link>
           </li>
           <li>
             <Link to="/marvel-memory">Marvel Memory</Link>
